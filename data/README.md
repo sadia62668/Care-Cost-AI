@@ -11,10 +11,23 @@ This project uses publicly available hospital price-transparency datasets from t
 | Baylor St. Luke's Medical Center | JSON | 244.2 MB |
 
 ## Dataset Access
+## Download the Hospital Datasets
 
-The original hospital datasets are stored separately because of GitHub file-size limitations.
+The three original hospital datasets used in this project are available here:
 
-The datasets were obtained from the hospitals' publicly available price-transparency resources. Direct download links will be added to this README.
+**[Download CareCost AI Datasets from Google Drive](https://drive.google.com/drive/folders/10yj3AgtuvGCw4K0TXYPu1_nbWa4YAa9N?usp=sharing)**
+
+The folder contains datasets for:
+- Houston Methodist Hospital
+- Memorial Hermann – Texas Medical Center
+- Baylor St. Luke's Medical Center
+
+To run the notebook, download all three files and upload them to your own Google Drive folder:
+
+`MyDrive/CareCost_AI/data/`
+
+Keep the original filenames. Then open the notebook in Google Colab, mount Google Drive, and run the cells in order.
+
 
 ## How to Run the Notebook
 
